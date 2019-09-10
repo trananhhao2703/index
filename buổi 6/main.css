@@ -1,0 +1,220 @@
+@charset "utf-8";
+/* CSS Document */
+
+.floder {
+	width: 1920px;
+	height: 5766px;
+	background: #C5C5C5;
+}
+
+.menu
+{
+	width: 1150px;
+	height: 80px;
+	background: #FFFFFF;
+	margin: auto;}
+
+.menu ul
+{
+	list-style: none;
+	
+}
+
+.menu a
+{
+	color: #020202;
+}
+
+.menu li:hover
+{
+	background: #FFFFFF;
+}
+
+.menu ul li a
+{
+	text-decoration: none;
+}
+
+
+
+
+
+
+.header {
+width: 1920px;
+	height: 100px;
+	background:#B1FFCF;	
+}
+
+.logo{
+	width: 700px;
+	height: 88px;
+	background:#B1FFCF ;	
+}
+
+.slider {
+	width: 1920px;
+	height: 680px;
+	background: #9A0002;
+		
+}
+
+
+
+.body1{
+	width: 1188px;
+	height: 740px;
+	background:#9CA8FF;
+	
+}
+
+
+
+.text1{
+	
+	width: 1185px;
+	height: 32px;
+	background: #FFBDBF;
+	text-align: center;
+	padding-top: 25px;
+}
+.body2{
+	width: 1185px;
+	height: 338px;
+	background: #FFFFFF;
+	
+	
+}
+
+.clear
+{
+	clear: both;
+}
+.pic1{
+width: 780px;
+	height: 300px;
+	background: #FF1F23;
+	float: left;
+		
+}
+
+.pic2{
+	width: 373px;
+	height: 200px;
+	background: #FFFFFF;
+	float: right;
+	
+}
+
+.body3{
+	width: 1188px;
+	height: 350px;
+	background:#FF6C6E ;
+	
+}
+
+.pic3{
+	width: 340px;
+	height: 335px;
+	background: #FFFFFF;
+	float: left;
+	margin: 15px 30px 0px 15px;
+	}
+
+.body4{
+	width: 1188px;
+	height:940px;
+	background:#BC92FF ;}
+.body4a{
+	width: 1188px;
+	height:730px;
+	background:#FF898B ;}
+
+
+.tex2{
+	width: 1185px;
+	height: 32px;
+	background: #FD0004;
+	text-align: center;
+	padding-top: 25px;
+}
+
+
+
+.body5{
+	width: 579px;
+	height: 722px;
+	background: #9F8000;
+	float: left;
+}
+
+
+.pic4{width: 580px;
+	height:628px;
+	background: #FFFFFF;
+float: left;
+}
+
+
+.body6{width: 550px;
+	height:722px;
+	background: #070101;
+float: right;
+}
+
+.pic6a{width: 201px;
+height: 135px;
+background: #FFFFFF;
+float: left;
+
+margin: 30px;}
+
+.body7{
+width: 1184px;
+height: 150px;	
+background: #00FF54;	
+margin: 0 auto;
+		
+}
+.body7a{
+width: 375px;
+height: 147px;	
+background: #FFFFFF	;
+	float: left;
+	margin: 2px 8px 2px 8px;
+}
+
+
+.slider2{
+width: 1920px;	
+height: 522px;
+	background: #00C9E1;	
+	
+}
+
+.body8{
+width: 	1184px;
+height: 300px;	
+background: #FFFFFF;	
+	
+}
+
+.body9{
+width:1184px; 	
+height:420px; 	
+background: #FFFFFF;	
+	
+}
+
+
+.body9a{
+width:375px; 	
+height:412px; 	
+	background: #4B4747;
+float: left;
+margin: 7px 2px 0px 5px;
+}
+
+
+
+
